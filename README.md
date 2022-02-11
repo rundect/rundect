@@ -9,7 +9,6 @@ How to reach me:
    </a>
 <p align='left'>
    <a href='mailto:dofastsite@gmail.com'>dofastsite@gmail.com</a>
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
 
 
