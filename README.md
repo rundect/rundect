@@ -9,6 +9,7 @@ How to reach me:
    </a>
 <p align='left'>
    <a href='mailto:dofastsite@gmail.com'>dofastsite@gmail.com</a>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 
 
