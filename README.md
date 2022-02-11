@@ -8,8 +8,8 @@ How to reach me:
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='left'>
-   <a href='mailto:dofastsite@gmail.com'>dofastsite@gmail.com</a>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   <a href='mailto:dofastsite@gmail.com'>
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 
 
