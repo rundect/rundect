@@ -3,11 +3,11 @@ Junior Python Developer. I have excellent knowledge in backend development on Py
 In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 
-<p align='center'>
+<p align='left'>
    <a href="https://t.me/rundect">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='center'>
+<p align='left'>
    📫 How to reach me: <a href='mailto:dofastsite@gmail.com'>dofastsite@gmail.com</a>
 </p>
 
