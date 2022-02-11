@@ -14,9 +14,11 @@ How to reach me:
 
 
 ### 🛠 My Technical Stack
+*   Linux
 *   Python 3.9
 *   PostgreSQL
 *   GitHub
+*   Docker, Docker-compose
 
 ### My opensource project
 
