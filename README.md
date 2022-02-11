@@ -22,4 +22,4 @@ How to reach me:
 
 ### My opensource project
 
-*   [Purchases TelegramBot](https://github.com/rundect/purchases_bott) - Simple Telegram bot for purchase tracking app
+*   [Purchases TelegramBot](https://github.com/rundect/purchases_bot) - Simple Telegram bot for purchase tracking app
