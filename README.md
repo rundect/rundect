@@ -2,7 +2,7 @@
 ### Hi, I'm Roman and I'm Junior Python Developer 👋
 I love backend development on Python.
 
-
+You can contact me:
 <p align='left'>
    <a href="https://t.me/rundect">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -19,4 +19,4 @@ I love backend development on Python.
 
 ### My opensource project
 
-*   [Purchases TelegramBot](https://github.com/rundect/purchases_bott) - Simple Telegram bot for personal financial accounting
+*   [Purchases TelegramBot](https://github.com/rundect/purchases_bott) - Simple Telegram bot for purchase tracking app
