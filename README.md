@@ -1,6 +1,6 @@
-## Hi, I'm Roman 👋
-Junior Python Developer. I have excellent knowledge in backend development on Python.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+
+### Hi, I'm Roman and I'm Junior Python Developer 👋
+I love backend development on Python.
 
 
 <p align='left'>
@@ -11,7 +11,8 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
    📫 How to reach me: <a href='mailto:dofastsite@gmail.com'>dofastsite@gmail.com</a>
 </p>
 
-## 🛠 Technical Stack
+
+### 🛠 My Technical Stack
 *   Python 3.9
 *   PostgreSQL
 *   GitHub
