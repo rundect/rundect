@@ -1,6 +1,6 @@
 
 ### Hi, I'm Roman and I'm Junior Python Developer 👋
-I love backend development on Python.
+I'm backend developer on Python.
 
 How to reach me:
 <p align='left'>
