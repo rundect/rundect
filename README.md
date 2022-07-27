@@ -1,6 +1,5 @@
 
-### Hi, I'm Roman and I'm Junior Python Developer 👋
-I'm backend developer on Python.
+### Hi, I'm Roman and I'm Junior Backend Developer 👋
 
 How to reach me:
 <p align='left'>
@@ -17,7 +16,6 @@ How to reach me:
 *   Linux
 *   Python 3.9
 *   PostgreSQL
-*   GitHub
 *   Docker, Docker-compose
 
 ### My opensource project
