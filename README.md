@@ -14,9 +14,11 @@ How to reach me:
 
 ### 🛠 My Technical Stack
 *   Linux
-*   Python 3.9
+*   Python 3.10
 *   PostgreSQL
 *   Docker, Docker-compose
+*   Apache Airflow
+*   Django
 
 ### My opensource project
 
