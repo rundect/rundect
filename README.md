@@ -1,5 +1,5 @@
 
-### Hi, I'm Roman and I'm Junior Backend Developer 👋
+### Hi, I'm Roman and I'm Middle Backend Developer 👋
 
 How to reach me:
 <p align='left'>
@@ -19,6 +19,7 @@ How to reach me:
 *   Docker, Docker-compose
 *   Apache Airflow
 *   Django
+*   FastAPI
 
 ### My opensource project
 
