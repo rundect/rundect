@@ -15,9 +15,11 @@ How to reach me:
 ### 🛠 My Technical Stack
 *   Linux
 *   Python 3.10
+*   Go 1.23
 *   PostgreSQL
 *   Docker, Docker-compose
 *   Apache Airflow
+*   Flask
 *   Django
 *   FastAPI
 
