@@ -22,6 +22,8 @@ How to reach me:
 *   Go 1.23
 *   PostgreSQL
 *   Docker, Docker-compose
+*   Zap
+*   Sentry
 
 ### My opensource project
 
