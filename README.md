@@ -13,7 +13,7 @@ How to reach me:
 
 
 ### 🛠 My Technical Stack
-*   Linux
+*   Ubuntu
 *   Python 3.10
     *   Django
     *   FastAPI
