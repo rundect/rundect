@@ -25,7 +25,3 @@ How to reach me:
 *   Zap
 *   Sentry
 *   Dependency-Track
-
-### My opensource project
-
-*   [Purchases TelegramBot](https://github.com/rundect/purchases_bot) - Simple Telegram bot for purchase tracking app
