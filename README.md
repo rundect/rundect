@@ -24,6 +24,7 @@ How to reach me:
 *   Docker, Docker-compose
 *   Zap
 *   Sentry
+*   Dependency-Track
 
 ### My opensource project
 
