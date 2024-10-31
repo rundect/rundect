@@ -19,7 +19,11 @@ How to reach me:
     *   FastAPI
     *   Flask
     *   Apache Airflow
+    *   SQLAlchemy
 *   Go 1.23
+    *   gin
+    *   swag
+    *   gorm
 *   PostgreSQL
 *   Docker, Docker-compose
 *   Zap
