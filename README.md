@@ -24,6 +24,7 @@ How to reach me:
     *   gin
     *   swag
     *   gorm
+    *   atlas
 *   PostgreSQL
 *   Docker, Docker-compose
 *   Zap
